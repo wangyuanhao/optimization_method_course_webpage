@@ -6,25 +6,50 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
-I am currently working in the Department of Mathematics at Jinan (暨南) University in Guangzhou, China. I got my PhD in applied mathematics at Sun Yat-sen University in 2022. My research focuses on developing advanced **non-i.i.d.-oriented machine learning algorithms** for heterogeneous biomedical data, including multi-omics and single-cell data, as well as histopathological images.
+This course *Optimization Methods* is oreinted for graduate students from applied statistics at the department of mathematics, Jinan University. The materials are collected and reorganized mainly from:
 
-Publications
-======
-* Lai Z-R, **Wang W📧**. Invariant risk minimization is a total variation model. In: *Proceedings of the 41st International Conference on Machine Learning (ICML 2024)*. Vienna, Austria: 2024: 25913-25935. [[code](https://github.com/laizhr/IRM-TV)]
-* Yang J, **Wang W📧**, Zhang X. scSemiGCN: boosting cell-type annotation from noise-resistant graph neural networks with extremely limited supervision. *Bioinformatics*, 2024, 40(2): btae091.[[code](https://github.com/Jane9898/scSemiGCN)]
-* **Wang W**, Zhang X, Dai D-Q. springD2A: capturing uncertainty in disease-drug association prediction. *Bioinformatics*, 2022, 38(5):1353–1360.[[code](https://github.com/wangyuanhao/springD2A)]
-* Zhang X, **Wang W**, Ren C-X, Dai D-Q. Learning representation for multiple biological networks via a robust graph regularized integration approach. *Briefings in Bioinformatics*, 2022, 23(1):bbab409.[[code](https://github.com/XWenZhang/EnMUGR)]
-* Song W, **Wang W**, Dai D-Q. Subtype-WESLR: identifying cancer subtype with weighted ensemble sparse latent representation of multi-view data. *Briefings in Bioinformatics*, 2022, 23(1):bbab398.[[code](https://github.com/songwenjing123/subtype-WESLR)]
-*  Liu Y, **Wang W**, Ren C-X, Dai D-Q. MetaCon: meta contrastive learning for microsatellite instability detection. In: *24th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*. Strasbourg, France: 2021:267–276.
-* **Wang W**, Zhang X, Dai D-Q. DeFusion: a denoised network regularization framework for multi-omics integration. *Briefings in Bioinformatics*, 2021, 22(5):bbab057.[[code](https://github.com/wangyuanhao/DeFusion)]
+* Beck, A. *Introduction to Non-linear Optimization: Theory, Algorithm, and Applications in MALTAB*, SIAM, 2014.
+* Beck, A. *First-Order Methods in Optimization*, SIAM,  2017.
+* Gartner, B., He, N., and Jaggi, M. Lectures notes on *Optimization for Data Science*.
+* Nesterov, Y. *Lectures on Convex Optimization*, Springer, 2018
+* Nesterov, Y. Lecture notes on *Modern Optimization* in 2024 summer school at Peking University.
+* Lan, G. *First-order and Stochastic Optimization Methods for Machine Learning*, Springer, 2020.
 
-📧Corresponding Author
+Students must read at least one paper listed below that is most attractive to you in each section. At 
 
-Teaching
+Syllabus
 ======
-* *Calculus I* for undergraduates (Autumn 2022, Autumn 2023, [Autumn 2024](https://wangyuanhao.github.io/calculus_course_webpage/))
-* *Probability and Mathematical Statistics* for undergraduates (Spring 2023)
-* *High-dimensional Data Analysis* for MSc (Spring 2023, Spring 2024)
-* *Optimization Methods* for MSc (Spring 2024)
+##### 🚩 Convex And Smooth Functions
+
+##### 🚩 Gradient Descent
+
+🚩 **Projected Gradient Descent**
+
+##### 🚩 Introductory to Computational Complexity
+
+🚩 **Conjugate Functions**
+
+**🚩 Proximal Operator**
+
+**🚩 Mirror Descent**
+
+##### 🚩 Frank-Wolfe Algorithm
+
+* [Jaggi, Martin. "Revisiting Frank-Wolfe: Projection-free sparse convex optimization." *International conference on machine learning*. PMLR, 2013.](http://proceedings.mlr.press/v28/jaggi13.pdf)
+* [Ding, Lijun, et al. "Spectral frank-wolfe algorithm: Strict complementarity and linear convergence." *International conference on machine learning*. PMLR, 2020.](http://proceedings.mlr.press/v119/ding20a/ding20a.pdf)
+* [Dvurechensky, Pavel, et al. "Self-concordant analysis of Frank-Wolfe algorithms." *International Conference on Machine Learning*. PMLR, 2020.](http://proceedings.mlr.press/v119/dvurechensky20a/dvurechensky20a.pdf)
+* [Zhou, Baojian, and Yifan Sun. "Approximate Frank-Wolfe Algorithms over Graph-structured Support Sets." *International Conference on Machine Learning*. PMLR, 2022.](https://proceedings.mlr.press/v162/zhou22i/zhou22i.pdf)
+
+🚩 **Stochastic Optimization**
+
+##### 🚩 Non-smooth Convex Optimization
+
+##### 🚩 Multi-objective Optimization and Its Applications on Multi-task Learning
+
+* [Pardalos, P.M.,  Žilinskas, A.,  Žilinskas, J.  *Non-Convex Multi-Objective Optimization*, Chapter 1-2, Springer, 2017.](https://link.springer.com/book/10.1007/978-3-319-61007-8) 
+
+History
+======
+* [2024-09-21] Create this webpage.
+
+  
