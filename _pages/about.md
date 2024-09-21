@@ -6,7 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color: rgba(0,0,128,0.9);">This course *Optimization Methods* is oreinted for graduate students from applied statistics at the department of mathematics, Jinan University. The materials are collected and reorganized mainly from:</span>
+<span style="color: rgba(0,0,128,0.9);">This course *Optimization Methods* is oreinted for graduate students from applied statistics at the department of mathematics, Jinan University. 
+
+ <a href="https://wangyuanhao.github.io" style="text-decoration:none;color:purple">**Instructor: Weiwen Wang(王伟文)**</a>
+
+The materials are collected and reorganized mainly from:</span>
 
 * Beck, A. *Introduction to Non-linear Optimization: Theory, Algorithm, and Applications in MALTAB*, SIAM, 2014.
 * Beck, A. *First-Order Methods in Optimization*, SIAM,  2017.
