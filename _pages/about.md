@@ -27,6 +27,11 @@ The materials are collected and reorganized mainly from:
 
 ### 🚩 <span style="color: rgba(0,0, 205,0.9);">Gradient Descent</span>
 
+### 🚩 <span style="color: rgba(0,0, 205,0.9);">Coordinate Descent and Conjugate Gradient Descent</span>
+
+* [Shewchuk, J. R. (1994). An introduction to the conjugate gradient method without the agonizing pain.](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
+* [Nocedal, J., & Wright, S. J. (Eds.). (2006). *Numerical optimization*. 2nd Edition,  New York, NY: Springer New York. Chapter 5.](https://link.springer.com/book/10.1007/978-0-387-40065-5)
+
 ### 🚩 <span style="color: rgba(0,0, 205,0.9);">Projected Gradient Descent</span>
 
 ### 🚩 <span style="color: rgba(0,0,205,0.9);">Introductory to Computational Complexity</span>
