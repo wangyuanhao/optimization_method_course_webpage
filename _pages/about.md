@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color: rgba(0,0,128,0.9);">This course *Optimization Methods* is oreinted for graduate students from applied statistics at the department of mathematics, Jinan University. </span>
+This course *Optimization Methods* is oriented for graduate students from applied statistics at the department of mathematics, Jinan University. It emphasizes on theoretical understandings of modern optimization methods for data science, particularly the first-order methods,  since implemtentation is easily accessed via LLMs (e.g. DeepSeek, ChatGPT, e.t.c.).
 
  <a href="https://wangyuanhao.github.io" style="text-decoration:none;color:purple">**Instructor: Weiwen Wang(王伟文)**</a>
 
@@ -21,11 +21,20 @@ The materials are collected and reorganized mainly from:
 
 <span style="color: rgba(0,0,128,0.9);">Students must read at least one paper listed below that is most attractive to you in each section. </span>
 
-<span style="color: rgba(90,90, 90,0.5);">Syllabus</span>
-======
-### 🚩 <span style="color: rgba(0,0, 205,0.9);">Convex And Smooth Functions</span>
+### <span style="color: rgba(118, 24, 24, 0.88);">Syllabus</span>
 
-### 🚩 <span style="color: rgba(0,0, 205,0.9);">Gradient Descent</span>
+* Lecture 1 Mathematical Preliminaries [notes] 
+  * Optimization in Data Science
+  * Inner Products and Norms
+  * Differentiability
+  * Optimiality Conditions for Unconstrained Optimization  
+* Lecture 2 Smooth Convex Functions [notes] 
+  * Attainable of Minima
+  * Definition of Smooth Convex Functions and Their Properties
+* Lecture 3 Gradient Descent [notes]
+  * Vallina Gradient Descent
+  * Acceralated Gradient Descent
+
 
 ### 🚩 <span style="color: rgba(0,0, 205,0.9);">Coordinate Descent and Conjugate Gradient Descent</span>
 
