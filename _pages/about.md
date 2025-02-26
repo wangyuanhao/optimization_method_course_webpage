@@ -10,6 +10,8 @@ This course *Optimization Methods* is oriented for graduate students from applie
 
  <a href="https://wangyuanhao.github.io" style="text-decoration:none;color:purple">**Instructor: Weiwen Wang(王伟文)**</a>
 
+<span style="color: rgba(58, 75, 209, 0.9);">It is unrealistic to read all the materials listed below in one semester, but students must read some of them in order to finish a qualified essay. </span>
+
 The materials are collected and reorganized mainly from:
 
 * [H. Liu, J. Hu, Y. Li, Z. Wen, Optimization: Modeling, Algorithm and Theory (in Chinese)](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html)
@@ -20,7 +22,6 @@ The materials are collected and reorganized mainly from:
 * Nesterov, Y. Lecture notes on *Modern Optimization* in 2024 summer school at Peking University.
 * Lan, G. *First-order and Stochastic Optimization Methods for Machine Learning*, Springer, 2020.
 
-<span style="color: rgba(58, 75, 209, 0.9);">It is unrealistic to read all the materials listed below in one semester, but students must read some of them in order to finish a qualified essay. </span>
 
 ### <span style="color: rgba(118, 24, 24, 0.88);">Syllabus</span>
 
