@@ -97,11 +97,11 @@ The materials are collected and reorganized mainly from:
   * Trajectory analysis
   * Escaping saddle points
 
-* Lecture 15 Primal-Dual Algorithm
+* Lecture 14 Primal-Dual Algorithm
   * Reading
     * [Chen, Yunmei, Guanghui Lan, and Yuyuan Ouyang. "Optimal primal-dual methods for a class of saddle point problems." SIAM Journal on Optimization 24.4 (2014): 1779-1814.](https://arxiv.org/pdf/1309.5548)
 
-* Lecture 14 Multi-objective Optimization and Its Applications on Multi-task Learning
+* Lecture 15 Multi-objective Optimization and Its Applications on Multi-task Learning
   * Reading
     * [Pardalos, P.M.,  Žilinskas, A.,  Žilinskas, J.  *Non-Convex Multi-Objective Optimization*, Chapter 1-2, Springer, 2017.](https://link.springer.com/book/10.1007/978-3-319-61007-8) 
 
