@@ -28,6 +28,9 @@ The materials are collected and reorganized mainly from:
   * Inner Products and Norms
   * Differentiability
   * Optimiality Conditions for Unconstrained Optimization  
+    * Reading
+      * Domingos, Pedro. "A few useful things to know about machine learning." Communications of the ACM 55.10 (2012): 78-87. https://doi.org/10.1145/2347736.2347755 
+        [**A classic paper presents the practical philosophy of machine learning.**]
 * Lecture 2 Smooth Convex Functions [notes] 
   * Attainable of Minima
   * Definition of Smooth Convex Functions and Their Properties
