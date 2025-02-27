@@ -22,6 +22,7 @@ The materials are collected and reorganized mainly from:
 * Nesterov, Y. Lecture notes on *Modern Optimization* in 2024 summer school at Peking University.
 * Lan, G. *First-order and Stochastic Optimization Methods for Machine Learning*, Springer, 2020.
 
+<span style="color: rgba(211, 23, 23, 0.88);">ALL THE MATERIALS ARE INTENDED FOR NON-PROFIT ACADEMIC USE. IF THEY ARE PRESENTED IMPROPERLY, PLEASE EMAIL ME TO REQUEST REMOVAL.</span>
 
 ### <span style="color: rgba(118, 24, 24, 0.88);">Syllabus</span>
 
@@ -50,7 +51,6 @@ The materials are collected and reorganized mainly from:
   * Smooth convex functions
   * Strongly smooth convex functions
 
-  * Definition of Smooth Convex Functions and Their Properties
 * Lecture 3 Gradient Descent [notes]
   * Vallina Gradient Descent
   * Acceralated Gradient Descent
@@ -92,6 +92,11 @@ The materials are collected and reorganized mainly from:
 * Lecture 12 Stochastic Optimization
   * Stochastic gradient descent
   * Stochastic proximal gradent descent 
+    * Reading
+      * [Nitanda, Atsushi. "Stochastic proximal gradient descent with acceleration techniques." Advances in neural information processing systems 27 (2014).](https://proceedings.neurips.cc/paper_files/paper/2014/file/d554f7bb7be44a7267068a7df88ddd20-Paper.pdf)
+      * [Li, Zhize, and Jian Li. "A simple proximal stochastic gradient method for nonsmooth nonconvex optimization." Advances in neural information processing systems 31 (2018).](https://proceedings.neurips.cc/paper_files/paper/2018/file/e727fa59ddefcefb5d39501167623132-Paper.pdf)
+      * [Gower, Robert M., et al. "Variance-reduced methods for machine learning." Proceedings of the IEEE 108.11 (2020): 1968-1983.](https://ieeexplore.ieee.org/document/9226504)
+      * [Xiao, Lin, and Tong Zhang. "A proximal stochastic gradient method with progressive variance reduction." SIAM Journal on Optimization 24.4 (2014): 2057-2075.](https://arxiv.org/abs/1403.4699)
 
 * Lecture 13 Nonconvex Optimization
   * Trajectory analysis
