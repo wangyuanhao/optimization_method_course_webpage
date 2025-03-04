@@ -26,7 +26,7 @@ The materials are collected and reorganized mainly from:
 
 ### <span style="color: rgba(118, 24, 24, 0.88);">Syllabus</span>
 
-* Lecture 1 Mathematical Preliminaries [notes] 
+* Lecture 1 Mathematical Preliminaries [[notes](../notes/lecture1.pdf)] 
   * Optimization in Data Science
   * Inner Products and Norms
   * Differentiability
