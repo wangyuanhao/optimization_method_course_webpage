@@ -46,7 +46,7 @@ The materials are collected and reorganized mainly from:
       * [Vidal, René, Ma, Yi, and S.S. Sastry. "Generalized Principal Component Analysis". Springer New York, NY. 2016. Chapter 2](https://link.springer.com/book/10.1007/978-0-387-87811-9)
         [**Application of L21 norm and nuclear norm minimization**]
 
-* Lecture 2 Smooth Convex Functions [notes]
+* Lecture 2 Smooth Convex Functions [[notes](../notes/lecture2.pdf)] 
   * Smooth functions
   * Smooth convex functions
   * Strongly smooth convex functions
