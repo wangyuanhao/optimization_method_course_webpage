@@ -51,7 +51,7 @@ The materials are collected and reorganized mainly from:
   * Smooth convex functions
   * Strongly smooth convex functions
 
-* Lecture 3 Gradient Descent [[notes](../notes/lecture3.pdf)][[python demo](../codes/gradient_descent.ipynb)]
+* Lecture 3 Gradient Descent [[notes](../notes/lecture3.pdf)][[python demo](../codes/gradient_descent.ipynb)][[matlab demo](../codes/run_gd_nagd.m)]
   * Vallina Gradient Descent
   * Acceralated Gradient Descent
 * Lecture 4 Coordinate Descent and Conjugate Gradient Descent
