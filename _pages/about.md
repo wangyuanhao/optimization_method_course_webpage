@@ -54,6 +54,11 @@ The materials are collected and reorganized mainly from:
 * Lecture 3 Gradient Descent [[notes](../notes/lecture3.pdf)][[python demo](../codes/gradient_descent.ipynb)][[matlab demo](../codes/run_gd_nagd.m)]
   * Vallina Gradient Descent
   * Acceralated Gradient Descent
+    * Reading
+      * [Kingma, Diederik P., and Jimmy Ba. "Adam: A method for stochastic optimization." ICLR (2015).](https://arxiv.org/pdf/1412.6980)[**Adam, one the most frequently used optimizer for deep learning**]
+      * [Loshchilov, Ilya, and Frank Hutter. "Decoupled weight decay regularization." ICLR (2019).](https://arxiv.org/abs/1711.05101)[** AdamW **]
+      * [Reddi, Sashank J., Satyen Kale, and Sanjiv Kumar. "On the convergence of adam and beyond." ICLR (2018).](https://arxiv.org/pdf/1904.09237)[**Adam fails to convergent**]
+      * [El Hanchi, Ayoub, David Stephens, and Chris Maddison. "Stochastic reweighted gradient descent." International Conference on Machine Learning. PMLR, 2022.](https://proceedings.mlr.press/v162/hanchi22a/hanchi22a.pdf)
 * Lecture 4 Coordinate Descent and Conjugate Gradient Descent
     * Reading
       * [Shewchuk, J. R. (1994). An introduction to the conjugate gradient method without the agonizing pain.](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
