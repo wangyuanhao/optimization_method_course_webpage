@@ -59,7 +59,7 @@ The materials are collected and reorganized mainly from:
       * [Loshchilov, Ilya, and Frank Hutter. "Decoupled weight decay regularization." ICLR (2019).](https://arxiv.org/abs/1711.05101)[**AdamW**]
       * [Reddi, Sashank J., Satyen Kale, and Sanjiv Kumar. "On the convergence of adam and beyond." ICLR (2018).](https://arxiv.org/pdf/1904.09237)[**Adam fails to convergent**]
       * [El Hanchi, Ayoub, David Stephens, and Chris Maddison. "Stochastic reweighted gradient descent." International Conference on Machine Learning. PMLR, 2022.](https://proceedings.mlr.press/v162/hanchi22a/hanchi22a.pdf)
-* Lecture 4 Coordinate Descent and Conjugate Gradient Descent[[notes](../notes/lecture4.pdf)]
+* Lecture 4 Coordinate Descent and Conjugate Gradient Descent [[notes](../notes/lecture4.pdf)]  [[notes](../notes/lecture5.pdf)]
     * Reading
       * [Bansal, N., & Gupta, A. (2017). Potential-function proofs for first-order methods. arXiv preprint arXiv:1712.04581.](https://arxiv.org/pdf/1712.04581)[**Construction of potential functions for convergence analysis**]
       * [Karimi, H., Nutini, J., & Schmidt, M. (2016, September). Linear convergence of gradient and proximal-gradient methods under the polyak-łojasiewicz condition. In Joint European conference on machine learning and knowledge discovery in databases (pp. 795-811). Cham: Springer International Publishing.](https://arxiv.org/pdf/1608.04636)[**PL inequality for convergence analysis of gradient descent**]
