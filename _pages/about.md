@@ -66,7 +66,7 @@ The materials are collected and reorganized mainly from:
       * [Shewchuk, J. R. (1994). An introduction to the conjugate gradient method without the agonizing pain.](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
       * [Nocedal, J., & Wright, S. J. (Eds.). (2006). *Numerical optimization*. 2nd Edition,  New York, NY: Springer New York. Chapter 5.](https://link.springer.com/book/10.1007/978-0-387-40065-5)
 
-* Lecture 5 Projected Gradient Descent
+* Lecture 5 Projected Gradient Descent  [[notes](../notes/lecture6.pdf)]
   * Optimization over convex sets
   * The orthogonal projection
   * The gradient projection method
