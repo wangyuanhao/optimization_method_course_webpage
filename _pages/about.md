@@ -71,7 +71,7 @@ The materials are collected and reorganized mainly from:
   * The orthogonal projection
   * The gradient projection method
 
-* Lecture 6 Frank-Wolfe Algorithm
+* Lecture 6 Frank-Wolfe Algorithm  [[notes](../notes/lecture7.pdf)]
   * Reading
     * [Jaggi, Martin. "Revisiting Frank-Wolfe: Projection-free sparse convex optimization." *International conference on machine learning*. PMLR, 2013.](http://proceedings.mlr.press/v28/jaggi13.pdf)
     * [Ding, Lijun, et al. "Spectral frank-wolfe algorithm: Strict complementarity and linear convergence." *International conference on machine learning*. PMLR, 2020.](http://proceedings.mlr.press/v119/ding20a/ding20a.pdf)
