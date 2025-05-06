@@ -79,7 +79,7 @@ The materials are collected and reorganized mainly from:
     * [Zhou, Baojian, and Yifan Sun. "Approximate Frank-Wolfe Algorithms over Graph-structured Support Sets." *International Conference on Machine Learning*. PMLR, 2022.](https://proceedings.mlr.press/v162/zhou22i/zhou22i.pdf)
 
 * Lecture 7 Subgradient Methods
-  * Subgradient and Subdifferential
+  * Subgradient and Subdifferential [[notes](../notes/lecture8.pdf)]
   * Subgradient Method
 
 * Lecture 8 Mirror Descent
