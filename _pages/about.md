@@ -80,7 +80,7 @@ The materials are collected and reorganized mainly from:
 
 * Lecture 7 Subgradient Methods
   * Subgradient and Subdifferential [[notes](../notes/lecture8.pdf)]
-  * Subgradient Method
+  * Subgradient Method  [[notes](../notes/lecture9.pdf)]
 
 * Lecture 8 Mirror Descent
   * Bregman divergence
