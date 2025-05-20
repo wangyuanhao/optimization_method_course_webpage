@@ -82,10 +82,14 @@ The materials are collected and reorganized mainly from:
   * Subgradient and Subdifferential [[notes](../notes/lecture8.pdf)]
   * Subgradient Method  [[notes](../notes/lecture9.pdf)]
 
-* Lecture 8 Mirror Descent
+* Lecture 8 Mirror Descent  [[notes](../notes/lecture10.pdf)]
   * Bregman divergence
   * Mirror Descent
-
+    * Reading
+      * Beck, A. *First-Order Methods in Optimization*, SIAM,  2017, Chapter 9
+        * Example 9.19
+        * Example 9.29
+  
 * Lecture 10 Conjugate Functions and Smoothing
   * Convex conjugate theory
   * Smoothing techniques
