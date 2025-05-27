@@ -91,7 +91,7 @@ The materials are collected and reorganized mainly from:
         * Example 9.29
   
 * Lecture 10 Conjugate Functions and Smoothing
-  * Convex conjugate theory
+  * Convex conjugate theory [[notes](../notes/lecture11.pdf)]
   * Smoothing techniques
 
 * Lecture 11 Proximal operator and Proximal Gradient Descent
