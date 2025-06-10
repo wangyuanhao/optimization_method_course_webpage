@@ -94,7 +94,7 @@ The materials are collected and reorganized mainly from:
   * Convex conjugate theory [[notes](../notes/lecture11.pdf)]
   * Smoothing techniques
 
-* Lecture 11 Proximal operator and Proximal Gradient Descent
+* Lecture 11 Proximal operator and Proximal Gradient Descent  [[notes](../notes/lecture12.pdf)]
   * Proximal operators
   * Proximal point algorithm
   * Proximal gradient descent
