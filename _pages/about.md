@@ -98,8 +98,10 @@ The materials are collected and reorganized mainly from:
   * Proximal operators
   * Proximal point algorithm
   * Proximal gradient descent
-  * Non-Euclidean proximal gradent methods
-
+  * Non-Euclidean proximal gradent methods [[notes](../notes/lecture13.pdf)]
+    * Beck, A. *First-Order Methods in Optimization*, SIAM,  2017, Chapter 10
+      * Example 10.76
+  
 * Lecture 12 Stochastic Optimization
   * Stochastic gradient descent
   * Stochastic proximal gradent descent 
