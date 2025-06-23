@@ -59,6 +59,7 @@ The materials are collected and reorganized mainly from:
       * [Loshchilov, Ilya, and Frank Hutter. "Decoupled weight decay regularization." ICLR (2019).](https://arxiv.org/abs/1711.05101)[**AdamW**]
       * [Reddi, Sashank J., Satyen Kale, and Sanjiv Kumar. "On the convergence of adam and beyond." ICLR (2018).](https://arxiv.org/pdf/1904.09237)[**Adam fails to convergent**]
       * [El Hanchi, Ayoub, David Stephens, and Chris Maddison. "Stochastic reweighted gradient descent." International Conference on Machine Learning. PMLR, 2022.](https://proceedings.mlr.press/v162/hanchi22a/hanchi22a.pdf)
+  
 * Lecture 4 Coordinate Descent and Conjugate Gradient Descent [[notes](../notes/lecture4.pdf)]  [[notes](../notes/lecture5.pdf)]
     * Reading
       * [Bansal, N., & Gupta, A. (2017). Potential-function proofs for first-order methods. arXiv preprint arXiv:1712.04581.](https://arxiv.org/pdf/1712.04581)[**Construction of potential functions for convergence analysis**]
@@ -102,15 +103,14 @@ The materials are collected and reorganized mainly from:
     * Beck, A. *First-Order Methods in Optimization*, SIAM,  2017, Chapter 10
       * Example 10.76
   
-* Lecture 12 Stochastic Optimization
+* Lecture 12 Stochastic Optimization  [[notes](../notes/lecture14.pdf)]
   * Stochastic gradient descent
-  * Stochastic proximal gradent descent 
     * Reading
       * [Nitanda, Atsushi. "Stochastic proximal gradient descent with acceleration techniques." Advances in neural information processing systems 27 (2014).](https://proceedings.neurips.cc/paper_files/paper/2014/file/d554f7bb7be44a7267068a7df88ddd20-Paper.pdf)
       * [Li, Zhize, and Jian Li. "A simple proximal stochastic gradient method for nonsmooth nonconvex optimization." Advances in neural information processing systems 31 (2018).](https://proceedings.neurips.cc/paper_files/paper/2018/file/e727fa59ddefcefb5d39501167623132-Paper.pdf)
       * [Gower, Robert M., et al. "Variance-reduced methods for machine learning." Proceedings of the IEEE 108.11 (2020): 1968-1983.](https://ieeexplore.ieee.org/document/9226504)
       * [Xiao, Lin, and Tong Zhang. "A proximal stochastic gradient method with progressive variance reduction." SIAM Journal on Optimization 24.4 (2014): 2057-2075.](https://arxiv.org/abs/1403.4699)
-
+  
 * Lecture 13 Nonconvex Optimization
   * Trajectory analysis
   * Escaping saddle points
