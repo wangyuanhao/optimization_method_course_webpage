@@ -111,13 +111,14 @@ The materials are collected and reorganized mainly from:
       * [Gower, Robert M., et al. "Variance-reduced methods for machine learning." Proceedings of the IEEE 108.11 (2020): 1968-1983.](https://ieeexplore.ieee.org/document/9226504)
       * [Xiao, Lin, and Tong Zhang. "A proximal stochastic gradient method with progressive variance reduction." SIAM Journal on Optimization 24.4 (2014): 2057-2075.](https://arxiv.org/abs/1403.4699)
   
-* Lecture 13 Nonconvex Optimization
-  * Trajectory analysis
-  * Escaping saddle points
-
-* Lecture 14 Primal-Dual Algorithm
+* Lecture 13 Primal-Dual Algorithm
+  
   * Reading
     * [Chen, Yunmei, Guanghui Lan, and Yuyuan Ouyang. "Optimal primal-dual methods for a class of saddle point problems." SIAM Journal on Optimization 24.4 (2014): 1779-1814.](https://arxiv.org/pdf/1309.5548)
+  
+* Lecture 14 Nonconvex Optimization
+  * Trajectory analysis
+  * Escaping saddle points
 
 * Lecture 15 Multi-objective Optimization and Its Applications on Multi-task Learning
   * Reading
