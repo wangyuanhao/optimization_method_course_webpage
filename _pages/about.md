@@ -24,6 +24,13 @@ The materials are collected and reorganized mainly from:
 
 <span style="color: rgba(211, 23, 23, 0.88);">ALL THE MATERIALS ARE INTENDED FOR NON-PROFIT ACADEMIC USE. IF THEY ARE PRESENTED IMPROPERLY, PLEASE EMAIL ME TO REQUEST REMOVAL.</span>
 
+### <span style="color: rgba(118, 24, 24, 0.88);">Class schedule</span>
+
+|                Class time                 |               Location               |
+| :---------------------------------------: | :----------------------------------: |
+| 14:00---15:40, Thursday, week 1 to week 9 | N224, Teching Building, Panyu Campus |
+|  10:30---12:10, Friday, week 1 to week 9  | N333, Teching Building, Panyu Campus |
+
 ### <span style="color: rgba(118, 24, 24, 0.88);">Syllabus</span>
 
 * Lecture 1 Mathematical Preliminaries [[notes](../notes/lecture1.pdf)] 
@@ -124,8 +131,19 @@ The materials are collected and reorganized mainly from:
   * Reading
     * [Pardalos, P.M.,  Žilinskas, A.,  Žilinskas, J.  *Non-Convex Multi-Objective Optimization*, Chapter 1-2, Springer, 2017.](https://link.springer.com/book/10.1007/978-3-319-61007-8) 
 
-<span style="color: rgba(90,90, 90,0.5);">History</span>
-======
-* <span style="color: rgba(0,0,128,0.9);">[2024-09-21] Create this webpage.</span>
+### <span style="color: rgba(118, 24, 24, 0.88);">Homework </span>
 
-  
+Homework will be released from time to time.
+
+| Date       | Assignment | Remark |
+| ---------- | ---------- | ------ |
+| 2026-03-09 |            |        |
+|            |            |        |
+|            |            |        |
+|            |            |        |
+|            |            |        |
+|            |            |        |
+|            |            |        |
+|            |            |        |
+|            |            |        |
+
