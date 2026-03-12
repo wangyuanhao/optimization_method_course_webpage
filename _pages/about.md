@@ -136,15 +136,15 @@ The materials are collected and reorganized mainly from:
 
 Homework will be released from time to time.
 
-| Date       | Assignment | Remark |
-| ---------- | ---------- | ------ |
-| 2026-03-09 |            |        |
-|            |            |        |
-|            |            |        |
-|            |            |        |
-|            |            |        |
-|            |            |        |
-|            |            |        |
-|            |            |        |
-|            |            |        |
+| Date       | Assignment                                                   | Remark |
+| ---------- | ------------------------------------------------------------ | ------ |
+| 2026-03-12 | Reading: K. Wen, D. Hall, T. Ma, and P. Liang. Fantastic pretraining optimizers and where to find them. arXiv preprint arXiv:2509.02046, 2025. |        |
+|            |                                                              |        |
+|            |                                                              |        |
+|            |                                                              |        |
+|            |                                                              |        |
+|            |                                                              |        |
+|            |                                                              |        |
+|            |                                                              |        |
+|            |                                                              |        |
 
