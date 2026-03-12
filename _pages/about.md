@@ -28,8 +28,8 @@ The materials are collected and reorganized mainly from:
 
 |                Class time                 |               Location               |
 | :---------------------------------------: | :----------------------------------: |
-| 14:00---15:40, Thursday, week 1 to week 9 | N224, Teching Building, Panyu Campus |
-|  10:30---12:10, Friday, week 1 to week 9  | N333, Teching Building, Panyu Campus |
+| 14:00---15:40, Thursday, week 1 to week 9 | N333, Teching Building, Panyu Campus |
+|  10:30---12:10, Friday, week 1 to week 9  | N224, Teching Building, Panyu Campus |
 
 ### <span style="color: rgba(118, 24, 24, 0.88);">Syllabus</span>
 
