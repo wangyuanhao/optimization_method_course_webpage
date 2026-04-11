@@ -134,7 +134,8 @@ The materials are collected and reorganized mainly from:
   
 * Advanced Topics
   
-  * Low-Rank Adaptation(LoRA) for SFT[notes](./notes/lora.pdf)
+  * Low-Rank Adaptation(LoRA) for SFT [[notes](./notes/lora.pdf)]
+  * Muon
   
 
 ### <span style="color: rgba(118, 24, 24, 0.88);">Homework </span>
