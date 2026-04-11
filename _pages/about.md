@@ -131,6 +131,11 @@ The materials are collected and reorganized mainly from:
 * Lecture 15 Multi-objective Optimization and Its Applications on Multi-task Learning
   * Reading
     * [Pardalos, P.M.,  Žilinskas, A.,  Žilinskas, J.  *Non-Convex Multi-Objective Optimization*, Chapter 1-2, Springer, 2017.](https://link.springer.com/book/10.1007/978-3-319-61007-8) 
+  
+* Advanced Topics
+  
+  * Low-Rank Adaptation(LoRA) for SFT[notes](./notes/lora.pdf)
+  
 
 ### <span style="color: rgba(118, 24, 24, 0.88);">Homework </span>
 
