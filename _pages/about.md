@@ -123,19 +123,23 @@ The materials are collected and reorganized mainly from:
   
   * Reading
     * [Chen, Yunmei, Guanghui Lan, and Yuyuan Ouyang. "Optimal primal-dual methods for a class of saddle point problems." SIAM Journal on Optimization 24.4 (2014): 1779-1814.](https://arxiv.org/pdf/1309.5548)
-  
-* Lecture 14 Nonconvex Optimization
-  * Trajectory analysis
-  * Escaping saddle points
-
-* Lecture 15 Multi-objective Optimization and Its Applications on Multi-task Learning
-  * Reading
-    * [Pardalos, P.M.,  Žilinskas, A.,  Žilinskas, J.  *Non-Convex Multi-Objective Optimization*, Chapter 1-2, Springer, 2017.](https://link.springer.com/book/10.1007/978-3-319-61007-8) 
+    * Vandenberghe, L. (2022). Primal-dual proximal methods [Lecture slides]. ECE236C: Optimization Methods for Large-Scale Systems, University of California, Los Angeles.  https://www.seas.ucla.edu/~vandenbe/236C/lectures/pdprox.pdf
+    * Chambolle, A., & Pock, T. (2011). A first-order primal-dual algorithm for convex problems  with applications to imaging. Journal of Mathematical Imaging and Vision, 40, 120–145.  https://doi.org/10.1007/s10851-010-0251-1
+    * Ryu, E. K., & Boyd, S. (2016). A primer on monotone operator methods. Applied and Computational Mathematics, 15(1), 3–43.
+    * Ryu, E. K., & Yin, W. (2022). Large-scale convex optimization: Algorithms & analyses via  monotone operators. Cambridge University Press. https://doi.org/10.1017/9781009160865 [Chapter 3]
+    * Chambolle, A., & Pock, T. (2016). An introduction to continuous optimization for imaging.  Acta Numerica, 25, 161–319.
+          https://doi.org/10.1017/S096249291600009X [Section 5]
   
 * Advanced Topics
   
   * Low-Rank Adaptation(LoRA) for SFT [[notes](./notes/lora.pdf)]
   * Muon
+    * Bernstein, J.  [Deriving Muon](https://jeremybernste.in/writing/deriving-muon)
+    * Liu, Jingyuan, Jianlin Su, Xingcheng Yao, Zhejun Jiang, Guokun Lai, Yulun Du, Yidao Qin et al. "Muon is scalable for llm training." *arXiv preprint arXiv:2502.16982* (2025).
+    * Jordan, K., et al. [Muon: An optimizer for hidden layers in neural networks.](An optimizer for hidden layers in neural networks.)
+    * Lecture 8. [EPFL Course - Optimization for Machine Learning - CS-439](https://raw.githubusercontent.com/epfml/OptML_course/main/slides/lecture08.pdf)
+  
+  * Trajectory analysis
   
 
 ### <span style="color: rgba(118, 24, 24, 0.88);">Homework </span>
