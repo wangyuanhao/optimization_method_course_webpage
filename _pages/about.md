@@ -137,8 +137,9 @@ The materials are collected and reorganized mainly from:
     * Bernstein, J.  [Deriving Muon](https://jeremybernste.in/writing/deriving-muon)
     * Liu, Jingyuan, Jianlin Su, Xingcheng Yao, Zhejun Jiang, Guokun Lai, Yulun Du, Yidao Qin et al. "Muon is scalable for llm training." *arXiv preprint arXiv:2502.16982* (2025).
     * Jordan, K., et al. [Muon: An optimizer for hidden layers in neural networks.](An optimizer for hidden layers in neural networks.)
+    * Hugging Face. [Understanding the Muon Optimizer: Theory and Implementation](https://huggingface.co/datasets/bird-of-paradise/muon-tutorial)
     * Lecture 8. [EPFL Course - Optimization for Machine Learning - CS-439](https://raw.githubusercontent.com/epfml/OptML_course/main/slides/lecture08.pdf)
-  
+    
   * Trajectory analysis
   
 
