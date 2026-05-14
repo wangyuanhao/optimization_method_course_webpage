@@ -113,7 +113,7 @@ The materials are collected and reorganized mainly from:
   
 * Lecture 12 Stochastic Optimization  [[notes](../notes/lecture14.pdf)]
   * Stochastic gradient descent
-  * [Sample codes for reproducing Figure 13.1](../codes/stochastic_optimization) in Gartner, B., He, N., and Jaggi, M. Lectures notes on *Optimization for Data Science*. [credit to ChatGPT]
+  * [Sample codes for reproducing Figure 13.1](https://github.com/wangyuanhao/optimization_method_course_webpage/codes/stochastic_optimization) in Gartner, B., He, N., and Jaggi, M. Lectures notes on *Optimization for Data Science*. [credit to ChatGPT]
     * Reading
       * [Nitanda, Atsushi. "Stochastic proximal gradient descent with acceleration techniques." Advances in neural information processing systems 27 (2014).](https://proceedings.neurips.cc/paper_files/paper/2014/file/d554f7bb7be44a7267068a7df88ddd20-Paper.pdf)
       * [Li, Zhize, and Jian Li. "A simple proximal stochastic gradient method for nonsmooth nonconvex optimization." Advances in neural information processing systems 31 (2018).](https://proceedings.neurips.cc/paper_files/paper/2018/file/e727fa59ddefcefb5d39501167623132-Paper.pdf)
